@@ -39,10 +39,10 @@
           "StatorCurrentLimit": 60
         }
       },
-      "IsEncoderInverted": true,
-      "IsSteerInverted": false,
+      "IsEncoderInverted": false,
+      "IsSteerInverted": true,
       "SelectedEncoderType": "CANcoder",
-      "EncoderOffset": -0.076416015625,
+      "EncoderOffset": -0.0712890625,
       "DriveMotorSelectionState": 1,
       "SteerMotorSelectionState": 1,
       "SteerEncoderSelectionState": 1,
@@ -88,10 +88,10 @@
           "StatorCurrentLimit": 60
         }
       },
-      "IsEncoderInverted": true,
-      "IsSteerInverted": false,
+      "IsEncoderInverted": false,
+      "IsSteerInverted": true,
       "SelectedEncoderType": "CANcoder",
-      "EncoderOffset": -0.338134765625,
+      "EncoderOffset": -0.328125,
       "DriveMotorSelectionState": 1,
       "SteerMotorSelectionState": 1,
       "SteerEncoderSelectionState": 1,
@@ -137,10 +137,10 @@
           "StatorCurrentLimit": 60
         }
       },
-      "IsEncoderInverted": true,
-      "IsSteerInverted": false,
+      "IsEncoderInverted": false,
+      "IsSteerInverted": true,
       "SelectedEncoderType": "CANcoder",
-      "EncoderOffset": -0.438720703125,
+      "EncoderOffset": -0.44677734375,
       "DriveMotorSelectionState": 1,
       "SteerMotorSelectionState": 1,
       "SteerEncoderSelectionState": 1,
@@ -186,10 +186,10 @@
           "StatorCurrentLimit": 60
         }
       },
-      "IsEncoderInverted": true,
-      "IsSteerInverted": false,
+      "IsEncoderInverted": false,
+      "IsSteerInverted": true,
       "SelectedEncoderType": "CANcoder",
-      "EncoderOffset": 0.129150390625,
+      "EncoderOffset": 0.144287109375,
       "DriveMotorSelectionState": 1,
       "SteerMotorSelectionState": 1,
       "SteerEncoderSelectionState": 1,
@@ -217,10 +217,10 @@
     "SwerveModuleType": 4,
     "SwerveModuleConfiguration": {
       "ModuleBrand": 4,
-      "DriveRatio": 6.122448979591837,
+      "DriveRatio": 5.357142857142857,
       "SteerRatio": 21.428571428571427,
-      "CouplingRatio": 3.5714285714285716,
-      "CustomName": "L3"
+      "CouplingRatio": 3.125,
+      "CustomName": "L3 16T"
     },
     "HasVerifiedSteer": true,
     "SelectedModuleManufacturer": "Swerve Drive Specialties (SDS)",
